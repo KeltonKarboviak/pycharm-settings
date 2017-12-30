@@ -4,10 +4,19 @@
     <property name="created">2017-12-30T00:57:41</property>
     <property name="ide">Python</property>
     <property name="ideVersion">2017.3.1.0.0</property>
-    <property name="modified">2017-12-30T00:58:53</property>
+    <property name="modified">2017-12-30T17:12:27</property>
     <property name="originalScheme">Darkside (rainglow)</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.4" />
+  <font>
+    <option name="EDITOR_FONT_NAME" value="Fira Code" />
+    <option name="EDITOR_FONT_SIZE" value="13" />
+  </font>
+  <font>
+    <option name="EDITOR_FONT_NAME" value="DejaVu Sans Mono" />
+    <option name="EDITOR_FONT_SIZE" value="13" />
+  </font>
+  <option name="EDITOR_LIGATURES" value="true" />
   <option name="CONSOLE_FONT_NAME" value="DejaVu Sans Mono" />
   <option name="CONSOLE_LINE_SPACING" value="1.6" />
   <colors>
@@ -3392,7 +3401,7 @@
     </option>
     <option name="TODO_DEFAULT_ATTRIBUTES">
       <value>
-        <option name="FOREGROUND" value="888b8e" />
+        <option name="FOREGROUND" value="b6b53f" />
         <option name="FONT_TYPE" value="2" />
       </value>
     </option>
