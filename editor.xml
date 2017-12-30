@@ -7,4 +7,12 @@
     <option name="USE_LIGATURES" value="true" />
     <option name="SECONDARY_FONT_FAMILY" value="DejaVu Sans Mono" />
   </component>
+  <component name="EditorSettings">
+    <option name="STRIP_TRAILING_SPACES" value="Whole" />
+    <option name="IS_ENSURE_NEWLINE_AT_EOF" value="true" />
+    <option name="ADDITIONAL_PAGE_AT_BOTTOM" value="true" />
+  </component>
+  <component name="XmlEditorOptions">
+    <option name="showCssInlineColorPreview" value="true" />
+  </component>
 </application>
