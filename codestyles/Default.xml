@@ -1,6 +1,7 @@
 <code_scheme name="Default" version="173">
   <option name="ALIGN_MULTILINE_PARAMETERS_IN_CALLS" value="true" />
   <Python>
+    <option name="BLANK_LINES_BEFORE_FIRST_METHOD" value="1" />
     <option name="NEW_LINE_AFTER_COLON" value="true" />
     <option name="DICT_WRAPPING" value="5" />
     <option name="DICT_NEW_LINE_AFTER_LEFT_BRACE" value="true" />
