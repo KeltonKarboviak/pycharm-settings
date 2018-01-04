@@ -1,11 +1,11 @@
-<scheme name="_@user_Darkside Light (rainglow)" version="142" parent_scheme="Darcula">
+<scheme name="My Light" version="142" parent_scheme="Darcula">
   <option name="FONT_SCALE" value="1.0833334" />
   <metaInfo>
-    <property name="created">2018-01-02T12:28:51</property>
+    <property name="created">2018-01-04T12:44:56</property>
     <property name="ide">Python</property>
     <property name="ideVersion">2017.3.1.0.0</property>
-    <property name="modified">2018-01-04T12:45:08</property>
-    <property name="originalScheme">Darkside Light (rainglow)</property>
+    <property name="modified">2018-01-04T12:45:09</property>
+    <property name="originalScheme">_@user_Darkside Light (rainglow)</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.4" />
   <option name="CONSOLE_FONT_NAME" value="DejaVu Sans Mono" />
