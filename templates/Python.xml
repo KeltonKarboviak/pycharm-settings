@@ -1,0 +1,12 @@
+<templateSet group="Python">
+  <template name="enc" value="# -*- coding: utf-8 -*-" description="Set file character encoding to utf-8" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="Python" value="true" />
+    </context>
+  </template>
+  <template name="ifmain" value="if __name__ == '__main__':&#10;    main()" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="Python" value="true" />
+    </context>
+  </template>
+</templateSet>
