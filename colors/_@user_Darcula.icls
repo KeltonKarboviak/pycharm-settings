@@ -4,7 +4,7 @@
     <property name="created">2017-12-30T00:46:48</property>
     <property name="ide">Python</property>
     <property name="ideVersion">2017.3.1.0.0</property>
-    <property name="modified">2018-02-13T16:29:36</property>
+    <property name="modified">2018-02-13T21:00:06</property>
     <property name="originalScheme">Darcula</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.4" />
@@ -18,20 +18,20 @@
   </font>
   <option name="EDITOR_LIGATURES" value="true" />
   <colors>
-    <option name="FILESTATUS_ADDED" value="1cc3e8" />
+    <option name="FILESTATUS_ADDED" value="15a2c1" />
     <option name="FILESTATUS_DELETED" value="f77669" />
-    <option name="FILESTATUS_HIJACKED" value="8e69c9" />
+    <option name="FILESTATUS_HIJACKED" value="7b5baf" />
     <option name="FILESTATUS_IDEA_FILESTATUS_DELETED_FROM_FILE_SYSTEM" value="f77669" />
     <option name="FILESTATUS_IDEA_FILESTATUS_IGNORED" value="546e7a" />
     <option name="FILESTATUS_MERGED" value="65738e" />
-    <option name="FILESTATUS_MODIFIED" value="1cc3e8" />
+    <option name="FILESTATUS_MODIFIED" value="15a2c1" />
     <option name="FILESTATUS_NOT_CHANGED" value="626669" />
-    <option name="FILESTATUS_NOT_CHANGED_IMMEDIATE" value="1cc3e8" />
-    <option name="FILESTATUS_NOT_CHANGED_RECURSIVE" value="1cc3e8" />
+    <option name="FILESTATUS_NOT_CHANGED_IMMEDIATE" value="15a2c1" />
+    <option name="FILESTATUS_NOT_CHANGED_RECURSIVE" value="15a2c1" />
     <option name="FILESTATUS_OBSOLETE" value="7c7c00" />
     <option name="FILESTATUS_SUPPRESSED" value="616161" />
     <option name="FILESTATUS_SWITCHED" value="8978f" />
     <option name="FILESTATUS_UNKNOWN" value="f77669" />
-    <option name="FILESTATUS_modifiedOutside" value="1cc3e8" />
+    <option name="FILESTATUS_modifiedOutside" value="15a2c1" />
   </colors>
 </scheme>
