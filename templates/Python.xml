@@ -4,7 +4,7 @@
       <option name="Python" value="true" />
     </context>
   </template>
-  <template name="ifmain" value="if __name__ == '__main__':&#10;    main()" toReformat="false" toShortenFQNames="true">
+  <template name="ifmain" value="if __name__ == '__main__':&#10;    main()" description="" toReformat="false" toShortenFQNames="true">
     <context>
       <option name="Python" value="true" />
     </context>
